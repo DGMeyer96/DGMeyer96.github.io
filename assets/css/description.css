@@ -185,6 +185,7 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2rem 0;
+		font-size: 0.9rem
 	}
 
 		p.major {
@@ -2635,6 +2636,7 @@ input, select, textarea {
 	}
 
 		.image img {
+			object-fit: contain;
 			display: block;
 			border-radius: 4px;
 		}
